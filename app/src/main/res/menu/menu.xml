@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mItm_texto17"
+        android:title="tamaño 17" />
+    <item
+        android:id="@+id/mItm_texto24"
+        android:title="tamaño 24" />
+</menu>

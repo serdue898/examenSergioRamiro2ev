@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Examen2ev</string>
+    <string name="nombre">name</string>
+    <string name="fecha">date</string>
+    <string name="desea_eliminar_la_tarea">¿want delete ?</string>
+    <string name="contexto">Share</string>
+    <string name="hora">hora</string>
+    <string name="limpiar">clean</string>
+    <string name="guardar">save</string>
+    <string name="volver">back</string>
+    <string name="name">Name</string>
+    <string name="descripcion">sescription</string>
+    <string name="fecha2">date</string>
+    <string name="nombre2">name</string>
+    <string name="fecha3">date</string>
+    <string name="completado">finally</string>
+    <string name="completar">final</string>
+    <string name="modificar">modify</string>
+    <string name="eliminar">delete</string>
+    <string name="enviar">share</string>
+</resources>

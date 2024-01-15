@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Examen2ev</string>
+    <string name="nombre">nombre</string>
+    <string name="fecha">fecha</string>
+    <string name="desea_eliminar_la_tarea">¿Desea eliminar la tarea?</string>
+    <string name="contexto">Compartir con</string>
+    <string name="hora">hora</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="guardar">Guardar</string>
+    <string name="volver">volver</string>
+    <string name="name">Name</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="fecha2">fecha</string>
+    <string name="nombre2">Nombre</string>
+    <string name="fecha3">Fecha</string>
+    <string name="completado">Completado</string>
+    <string name="completar">Completar</string>
+    <string name="modificar">Modificar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="enviar">Enviar</string>
+</resources>
